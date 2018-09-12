@@ -1,0 +1,384 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<ns:getAccounts6Response xmlns:ns="http://underwriting.gpb.ru" xmlns:ax21="http://underwriting.gpb.ru/xsd">
+<ns:return type="ru.gpb.underwriting.AccountInfo5">
+<ax21:data type="ru.gpb.underwriting.AccountData">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Фамилия Имя Отчество</ax21:name>
+<ax21:openDate>2000-05-25T00:00:00.000Z</ax21:openDate>
+<ax21:picture>423ХХХХХХХХХХХХХХХ</ax21:picture>
+</ax21:data>
+<ax21:data2 type="ru.gpb.underwriting.AccountData2">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2000-05-25T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data2>
+<ax21:data3 type="ru.gpb.underwriting.AccountData3">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2000-05-25T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data3>
+<ax21:data4 type="ru.gpb.underwriting.AccountData4">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество</ax21:name>
+<ax21:openDate>2000-05-25T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+</ax21:data4>
+<ax21:data5 type="ru.gpb.underwriting.AccountData5">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2000-05-25T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+<ax21:instructionBrief>ДЕПОЗ_ВСТР</ax21:instructionBrief>
+</ax21:data5>
+<ax21:bankBic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:branchCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:code>0</ax21:code>
+<ax21:customer type="ru.gpb.underwriting.Customer">
+<ax21:firstName>ИМЯ</ax21:firstName>
+<ax21:identityDocument type="ru.gpb.underwriting.IdentityDocument">
+<ax21:number>ХХХХХХ</ax21:number>
+<ax21:serial>ХХХХ</ax21:serial>
+</ax21:identityDocument>
+<ax21:lastName>ФАМИЛИЯ</ax21:lastName>
+<ax21:middleName>ОТЧЕСТВО</ax21:middleName>
+<ax21:srcId>0</ax21:srcId>
+<ax21:srcSystem/>
+</ax21:customer>
+<ax21:date xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:message xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:srcSystem>ret_scaffold_ret_jun</ax21:srcSystem>
+<ax21:versionInfo>1</ax21:versionInfo>
+</ns:return>
+<ns:return type="ru.gpb.underwriting.AccountInfo5">
+<ax21:data type="ru.gpb.underwriting.AccountData">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2002-08-06T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+</ax21:data>
+<ax21:data2 type="ru.gpb.underwriting.AccountData2">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2002-08-06T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data2>
+<ax21:data3 type="ru.gpb.underwriting.AccountData3">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2002-08-06T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data3>
+<ax21:data4 type="ru.gpb.underwriting.AccountData4">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2002-08-06T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+</ax21:data4>
+<ax21:data5 type="ru.gpb.underwriting.AccountData5">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name> Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2002-08-06T00:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+<ax21:instructionBrief>ДЕПОЗ_ВСТР</ax21:instructionBrief>
+</ax21:data5>
+<ax21:bankBic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:branchCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:code>0</ax21:code>
+<ax21:customer type="ru.gpb.underwriting.Customer">
+<ax21:firstName>ИМЯ</ax21:firstName>
+<ax21:identityDocument type="ru.gpb.underwriting.IdentityDocument">
+<ax21:number>ХХХХХХ</ax21:number>
+<ax21:serial>ХХХХ</ax21:serial>
+</ax21:identityDocument>
+<ax21:lastName>ФАМИЛИЯ</ax21:lastName>
+<ax21:middleName>ОТЧЕСТВО</ax21:middleName>
+<ax21:srcId>0</ax21:srcId>
+<ax21:srcSystem/>
+</ax21:customer>
+<ax21:date xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:message xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:srcSystem>ret_scaffold_ret_jun</ax21:srcSystem>
+<ax21:versionInfo>1</ax21:versionInfo>
+</ns:return>
+<ns:return type="ru.gpb.underwriting.AccountInfo5">
+<ax21:data type="ru.gpb.underwriting.AccountData">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет депозита Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2008-02-07T01:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+</ax21:data>
+<ax21:data2 type="ru.gpb.underwriting.AccountData2">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет депозита Фамилия Имя Отчество</ax21:name>
+<ax21:openDate>2008-02-07T01:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data2>
+<ax21:data3 type="ru.gpb.underwriting.AccountData3">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет депозита Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2008-02-07T01:00:00.000Z</ax21:openDate>
+<ax21:picture>42301978400200004243</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data3>
+<ax21:data4 type="ru.gpb.underwriting.AccountData4">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет депозита Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2008-02-07T01:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+</ax21:data4>
+<ax21:data5 type="ru.gpb.underwriting.AccountData5">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет депозита Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2008-02-07T01:00:00.000Z</ax21:openDate>
+<ax21:picture>42301ХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+<ax21:instructionBrief>ДЕПОЗ_ВСТР</ax21:instructionBrief>
+</ax21:data5>
+<ax21:bankBic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:branchCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:code>0</ax21:code>
+<ax21:customer type="ru.gpb.underwriting.Customer">
+<ax21:firstName>ИМЯ</ax21:firstName>
+<ax21:identityDocument type="ru.gpb.underwriting.IdentityDocument">
+<ax21:number>ХХХХХХ</ax21:number>
+<ax21:serial>ХХХХ</ax21:serial>
+</ax21:identityDocument>
+<ax21:lastName>ФАМИЛИЯ</ax21:lastName>
+<ax21:middleName>ОТЧЕСТВО</ax21:middleName>
+<ax21:srcId>0</ax21:srcId>
+<ax21:srcSystem/>
+</ax21:customer>
+<ax21:date xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:message xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:srcSystem>ret_scaffold_ret_jun</ax21:srcSystem>
+<ax21:versionInfo>1</ax21:versionInfo>
+</ns:return>
+<ns:return type="ru.gpb.underwriting.AccountInfo5">
+<ax21:data type="ru.gpb.underwriting.AccountData">
+<ax21:closeDate>2018-06-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество</ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>4874ХХХХХХХХХХХХ</ax21:picture>
+</ax21:data>
+<ax21:data2 type="ru.gpb.underwriting.AccountData2">
+<ax21:closeDate>2018-06-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>4874ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+</ax21:data2>
+<ax21:data3 type="ru.gpb.underwriting.AccountData3">
+<ax21:closeDate>2018-06-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>4874ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data3>
+<ax21:data4 type="ru.gpb.underwriting.AccountData4">
+<ax21:closeDate>2018-06-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>4874ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+</ax21:data4>
+<ax21:data5 type="ru.gpb.underwriting.AccountData5">
+<ax21:closeDate>2018-06-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>4874ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+<ax21:instructionBrief/>
+</ax21:data5>
+<ax21:bankBic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:branchCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:code>0</ax21:code>
+<ax21:customer type="ru.gpb.underwriting.Customer">
+<ax21:firstName>ИМЯ</ax21:firstName>
+<ax21:identityDocument type="ru.gpb.underwriting.IdentityDocument">
+<ax21:number>ХХХХХХ</ax21:number>
+<ax21:serial>ХХХХ</ax21:serial>
+</ax21:identityDocument>
+<ax21:lastName>ФАМИЛИЯ</ax21:lastName>
+<ax21:middleName>ОТЧЕСТВО</ax21:middleName>
+<ax21:srcId>0</ax21:srcId>
+<ax21:srcSystem/>
+</ax21:customer>
+<ax21:date xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:message xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:srcSystem>ret_scaffold_ret_jun</ax21:srcSystem>
+<ax21:versionInfo>1</ax21:versionInfo>
+</ns:return>
+<ns:return type="ru.gpb.underwriting.AccountInfo5">
+<ax21:data type="ru.gpb.underwriting.AccountData">
+<ax21:closeDate>2018-09-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>5489ХХХХХХХХХХХХ</ax21:picture>
+</ax21:data>
+<ax21:data2 type="ru.gpb.underwriting.AccountData2">
+<ax21:closeDate>2018-09-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>5489ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+</ax21:data2>
+<ax21:data3 type="ru.gpb.underwriting.AccountData3">
+<ax21:closeDate>2018-09-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>5489ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data3>
+<ax21:data4 type="ru.gpb.underwriting.AccountData4">
+<ax21:closeDate>2018-09-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>5489ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+</ax21:data4>
+<ax21:data5 type="ru.gpb.underwriting.AccountData5">
+<ax21:closeDate>2018-09-30T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Счет пластиковых карт Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2006-09-04T00:00:00.000Z</ax21:openDate>
+<ax21:picture>5489ХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture>40817ХХХХХХХХХХХХХХХ</ax21:mainPicture>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+<ax21:instructionBrief/>
+</ax21:data5>
+<ax21:bankBic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:branchCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:code>0</ax21:code>
+<ax21:customer type="ru.gpb.underwriting.Customer">
+<ax21:firstName>ИМЯ</ax21:firstName>
+<ax21:identityDocument type="ru.gpb.underwriting.IdentityDocument">
+<ax21:number>ХХХХХХ</ax21:number>
+<ax21:serial>ХХХХ</ax21:serial>
+</ax21:identityDocument>
+<ax21:lastName>ФАМИЛИЯ</ax21:lastName>
+<ax21:middleName>ОТЧЕСТВО</ax21:middleName>
+<ax21:srcId>0</ax21:srcId>
+<ax21:srcSystem/>
+</ax21:customer>
+<ax21:date xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:message xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:srcSystem>ret_scaffold_ret_jun</ax21:srcSystem>
+<ax21:versionInfo>1</ax21:versionInfo>
+</ns:return>
+<ns:return type="ru.gpb.underwriting.AccountInfo5">
+<ax21:data type="ru.gpb.underwriting.AccountData">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Банковский (текущий) счет Фамилия Имя Отчество</ax21:name>
+<ax21:openDate>2017-10-12T01:00:00.000Z</ax21:openDate>
+<ax21:picture>40817ХХХХХХХХХХХХХХХ</ax21:picture>
+</ax21:data>
+<ax21:data2 type="ru.gpb.underwriting.AccountData2">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Банковский (текущий) счет Фамилия Имя Отчество</ax21:name>
+<ax21:openDate>2017-10-12T01:00:00.000Z</ax21:openDate>
+<ax21:picture>40817ХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data2>
+<ax21:data3 type="ru.gpb.underwriting.AccountData3">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Банковский (текущий) счет Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2017-10-12T01:00:00.000Z</ax21:openDate>
+<ax21:picture>40817ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ax21:data3>
+<ax21:data4 type="ru.gpb.underwriting.AccountData4">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Банковский (текущий) счет Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2017-10-12T01:00:00.000Z</ax21:openDate>
+<ax21:picture>40817ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+</ax21:data4>
+<ax21:data5 type="ru.gpb.underwriting.AccountData5">
+<ax21:closeDate>1900-01-01T01:00:00.000Z</ax21:closeDate>
+<ax21:name>Банковский (текущий) счет Фамилия Имя Отчество </ax21:name>
+<ax21:openDate>2017-10-12T01:00:00.000Z</ax21:openDate>
+<ax21:picture>40817ХХХХХХХХХХХХХХХ</ax21:picture>
+<ax21:mainPicture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:balance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:fundCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:classification/>
+<ax21:instructionBrief>ГПБТекущ</ax21:instructionBrief>
+</ax21:data5>
+<ax21:bankBic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:branchCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:code>0</ax21:code>
+<ax21:customer type="ru.gpb.underwriting.Customer">
+<ax21:firstName>ИМЯ</ax21:firstName>
+<ax21:identityDocument type="ru.gpb.underwriting.IdentityDocument">
+<ax21:number>ХХХХХХ</ax21:number>
+<ax21:serial>ХХХХ</ax21:serial>
+</ax21:identityDocument>
+<ax21:lastName>ФАМИЛИЯ</ax21:lastName>
+<ax21:middleName>ОТЧЕСТВО</ax21:middleName>
+<ax21:srcId>0</ax21:srcId>
+<ax21:srcSystem/>
+</ax21:customer>
+<ax21:date xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:message xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax21:srcSystem>ret_scaffold_ret_jun</ax21:srcSystem>
+<ax21:versionInfo>1</ax21:versionInfo>
+</ns:return>
+</ns:getAccounts6Response>
+</soapenv:Body>
+</soapenv:Envelope>

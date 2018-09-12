@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="5NT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/5NT_jar</output-path>
+    <root id="archive" name="5NT.jar">
+      <element id="module-output" name="5NT" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.0/activemq-all-5.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/jms/javax.jms-api/2.0.1/javax.jms-api-2.0.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: javax.jms:javax.jms-api:2.0.1" />
+      <element id="library" level="project" name="Maven: org.apache.activemq:activemq-all:5.15.0" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<ns:openAccountResponse xmlns:ns="http://diasoft5nt.credit.gpb.ru">
+<ns:return xmlns:ax281="http://diasoft5nt.credit.gpb.ru/xsd" xmlns:ax278="http://sql.java/xsd"type="ru.gpb.credit.diasoft5nt.OpenAccountResponse">
+<ax281:accountNumber>AccNumber</ax281:accountNumber>
+<ax281:dealID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax281:dealNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax281:institutionID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+<ax281:message>
+Клиент: успешно создан "РЕЗЧИКОВ Н. А.-3". Договор: успешно создан с номером "КСР -000020/18-01450"
+</ax281:message>
+<ax281:resourceID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</ns:return>
+</ns:openAccountResponse>
+</soapenv:Body>
+</soapenv:Envelope>
